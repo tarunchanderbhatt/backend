@@ -33,7 +33,7 @@
     "@swimlane/ngx-datatable": "^15.0.2",
     "angular-count-to": "0.0.3",
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "chartist": "^0.11.0",
     "cors": "^2.8.5",
     "express": "^4.15.2",
